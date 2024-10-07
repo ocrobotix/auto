@@ -1,0 +1,1 @@
+This is a test of an automated mkdocs gh-deploy
